@@ -1,0 +1,408 @@
+[
+  {
+    "title": "Team",
+    "type": "group",
+    "children": [
+      {
+        "title": "Roles & Responsabilities",
+        "type": "group",
+        "children": [
+          {
+            "title": "Organizational Chart",
+            "type": "page"
+          },
+          {
+            "title": "Roles & Job Descriptions",
+            "type": "page"
+          },
+          {
+            "title": "Systems Profiles & Segregation of Duties",
+            "type": "page"
+          },
+          {
+            "title": "Social Media",
+            "type": "page"
+          },
+          {
+            "title": "Digital Business Card",
+            "type": "page"
+          }
+        ]
+      },
+      {
+        "title": "Team Performance",
+        "type": "group",
+        "children": [
+          {
+            "title": "Target and Monitoring",
+            "type": "page"
+          },
+          {
+            "title": "Assessment",
+            "type": "page"
+          },
+          {
+            "title": "Retail Training",
+            "type": "page"
+          },
+          {
+            "title": "Team activation",
+            "type": "page"
+          },
+          {
+            "title": "Uniform & Grooming",
+            "type": "page"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Client",
+    "type": "group",
+    "children": [
+      {
+        "title": "Omnichannel",
+        "type": "group",
+        "children": [
+          {
+            "title": "Omni tools",
+            "type": "page"
+          },
+          {
+            "title": "Remote Sales",
+            "type": "page"
+          },
+          {
+            "title": "Consignment",
+            "type": "page"
+          },
+          {
+            "title": "Client Service Hub",
+            "type": "page"
+          },
+          {
+            "title": "Personalization",
+            "type": "page"
+          },
+          {
+            "title": "Packaging Guidelines",
+            "type": "page"
+          }
+        ]
+      },
+      {
+        "title": "CLIENT ACTIVATION",
+        "type": "group",
+        "children": [
+          {
+            "title": "Collect Client Info",
+            "type": "page"
+          },
+          {
+            "title": "Engage with Clients",
+            "type": "page"
+          },
+          {
+            "title": "Client Journeys",
+            "type": "page"
+          },
+          {
+            "title": "Private Client Relationship",
+            "type": "page"
+          }
+        ]
+      },
+      {
+        "title": "Sales transactions",
+        "type": "group",
+        "children": [
+          {
+            "title": "Sale Execution",
+            "type": "page"
+          },
+          {
+            "title": "Cash & Sales Restrictions",
+            "type": "page"
+          },
+          {
+            "title": "Change of Mind and Return",
+            "type": "page"
+          },
+          {
+            "title": "International Sanctions",
+            "type": "page"
+          }
+        ]
+      },
+      {
+        "title": "AFTER SALES",
+        "type": "group",
+        "children": [
+          {
+            "title": "WW After Sales Policy",
+            "type": "page"
+          },
+          {
+            "title": "After Sales Customer Request",
+            "type": "page"
+          },
+          {
+            "title": "Repair Services Catalogue",
+            "type": "page"
+          },
+          {
+            "title": "WW After Sales Organization",
+            "type": "page"
+          },
+          {
+            "title": "F.A.Q.",
+            "type": "page"
+          },
+          {
+            "title": "Printable Boards & Forms",
+            "type": "page"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Boutique",
+    "type": "group",
+    "children": [
+      {
+        "title": "Security",
+        "type": "group",
+        "children": [
+          {
+            "title": "General Security Rules",
+            "type": "page"
+          },
+          {
+            "title": "Opening & Closing",
+            "type": "page"
+          },
+          {
+            "title": "Bag Check",
+            "type": "page"
+          },
+          {
+            "title": "Access",
+            "type": "page"
+          },
+          {
+            "title": "Security Guards",
+            "type": "page"
+          },
+          {
+            "title": "CCTV Cameras",
+            "type": "page"
+          },
+          {
+            "title": "Product Protection",
+            "type": "page"
+          },
+          {
+            "title": "Safe",
+            "type": "page"
+          },
+          {
+            "title": "Trash Inspection",
+            "type": "page"
+          },
+          {
+            "title": "Anti-Theft Tagging",
+            "type": "page"
+          },
+          {
+            "title": "Alarms",
+            "type": "page"
+          },
+          {
+            "title": "Shoplifting and Theft",
+            "type": "page"
+          },
+          {
+            "title": "Boutique Maintenance and Repair",
+            "type": "page"
+          },
+          {
+            "title": "Closing for Authorities Decision",
+            "type": "page"
+          },
+          {
+            "title": "Incident Reporting- Americas",
+            "type": "page"
+          }
+        ]
+      },
+      {
+        "title": "Management",
+        "type": "group",
+        "children": [
+          {
+            "title": "Boutique Cleaning",
+            "type": "page",
+            "content": "<p style=\"text-align: center;\"><strong>Keep the Store Clean and Tidy ✨ </strong></p><p style=\"text-align: justify;\"><span class=\"fontSizeXLarge\"><strong><span class=\"fontColorYellow\" style=\"color: rgb(255,185,0);\">Who</span> </strong></span></p><p style=\"text-align: justify;\">The <strong>Store Staff</strong> is responsible for <strong>monitoring cleaning</strong> performed by <strong>External Providers</strong>. The store staff should: </p><ul style=\"margin-left: 0.0px;\"><li><p style=\"text-align: justify;\"><strong>Keep the store and back-of-house tidy.</strong></p></li><li><p style=\"text-align: justify;\">Ensure that a <strong>Store Staff </strong>member or <strong>Security guards</strong> are present when <strong>cleaning is performed</strong>. </p></li><li><p style=\"text-align: justify;\"><strong>Share planning and points of attention</strong> and involve the <strong>Facility Manager</strong>. </p></li><li><p style=\"text-align: justify;\"><strong>Periodically </strong><strong>provide<span> </span></strong>the<strong> Facility Manager feedback</strong> on the<strong> Service Level </strong>received or whenever the Service level is inadequate. </p></li></ul><p style=\"text-align: justify;\"><strong>Security guards</strong> should actively control the operations, avoiding using mobile phones when on duty and performing a bag and garbage check when cleaning staff complete the operations. </p><p style=\"text-align: justify;\"><strong>The Facility Manager<span> </span></strong>is in charge of Contract management. </p><p style=\"text-align: justify;\"><span class=\"fontSizeXLarge\"><span class=\"fontColorYellow\" style=\"color: rgb(255,185,0);\"><strong>What/How </strong></span></span></p><p style=\"text-align: justify;\"><strong>Store Staff</strong> and the <strong>Facility Manager shall define the cleaning schedule, checklist, and frequency</strong>. This shall be<span> </span><strong>shared with the External Cleaning Provider </strong>and included as a Service Level Agreement in the engagement contract. </p><p style=\"text-align: justify;\">The <strong>Facility Manager</strong> is responsible for including specific requirements due to local laws (e.g., Covid special measures). </p><p style=\"text-align: justify;\"><strong>Store Staff is recommended to perform</strong> a weekly<span> </span><strong>Mister Clean</strong> check:  </p><ul style=\"margin-left: 0.0px;\"><li><p style=\"text-align: justify;\">Check for dust on top of shelves and hangers </p></li><li><p style=\"text-align: justify;\">Open drawers and check for dust inside and behind </p></li><li><p style=\"text-align: justify;\">Carefully inspect the bathroom, including the area behind the toilet bowl </p></li><li><p style=\"text-align: justify;\">Check the CCTV Camera to see if the Security Guard or Store staff monitored the cleaning appropriately and checked the bags/garbage at the end. </p></li></ul><p style=\"text-align: justify;\"><em><strong>Please consider</strong> the following: </em></p><ul style=\"margin-left: 0.0px;\"><li><em>If who is supposed to monitor the cleaning uses smartphones is unlikely that any misbehaviour is detected. </em></li><li><em>If our standard levels are not stated in the contract is complicated to obtain its respect. </em></li><li><em>Stolen products may be taken outside the store in bags and garbage. </em></li></ul><p style=\"text-align: justify;\"><br/></p><p style=\"text-align: justify;\">❕When cleaning services<span> </span><strong>are not performed properly, </strong>or the external cleaning staff behaves<strong> inappropriately</strong>, please report this promptly to the Store Manager and the Facility manager.</p><p style=\"text-align: justify;\">If necessary, a<span> </span><strong>specific request service</strong>, Store Manager, or delegate shall open a Work Order on the <strong><a class=\"external-link\" href=\"https://servicechannel.atlassian.net/wiki/spaces/SCU/overview?homepageId=384335930#%21spacehome\" rel=\"nofollow\" style=\"text-decoration: underline;\">service channel</a></strong><span> </span>(if in place) or send an email to the Facility Manager. </p><p style=\"text-align: justify;\"><span class=\"fontSizeXLarge\"><span class=\"fontColorYellow\" style=\"color: rgb(255,185,0);\"><strong>When  </strong></span></span></p><p style=\"text-align: justify;\">The cleaning schedule shall<strong> include special duties</strong> according to<strong> different </strong><strong>time frames</strong>. </p><p style=\"text-align: justify;\">Store staff and the Facility Manager should always keep track of when nonfrequent (Yearly or longer intervals, if any) cleanings are performed.</p><p style=\"text-align: justify;\"><br/></p><p style=\"text-align: justify;\">❕ In a Boutique with windows set up, always liaise with the <strong>VM team</strong><span> </span>to ensure that timely window cleaning services are organized.</p><p style=\"text-align: justify;\"><br/></p><p><strong>DAILY</strong></p><ul><li>Floor</li><li>Counters                                       </li><li>Desks                                       </li><li>Changing room                    </li><li>Staff room + kitchen             </li><li>Staff toilet<strong>                          </strong></li><li>Client beverage set               </li></ul><p><strong>WEEKLY</strong></p><ul style=\"margin-left: 0.0px;\"><li>Shelves </li><li>Mirrors                 </li><li>Shop floor hangers</li><li>External windows onto the street                 </li></ul><p><br/></p><p><br/></p><p><span class=\"fontColorYellow\" style=\"color: rgb(255,185,0);\"><strong>​​​​​​​</strong></span></p><p><strong>Bi-MONTHLY</strong></p><ul style=\"margin-left: 0.0px;\"><li>Internal windows</li><li>Internal Glass surfaces, brass, iron, and other metal surfaces</li></ul><p><br/></p><p><strong>MONTHLY</strong></p><ul style=\"margin-left: 0.0px;\"><li>Upper shelves                              </li><li>Furniture backs                       </li><li>Staff lockers                 </li></ul><p><strong>TWICE A YEAR</strong><br/><br/>Carry out two <strong>Spring Cleanings</strong> every year after stock clearing</p><ul style=\"margin-left: 0.0px;\"><li>Wipe walls and ceilings</li><li><span>Thorough dusting of all shop and back-office spaces</span></li><li><span>Window cleaning</span></li></ul><p><span>​​​​​​​</span></p><p><strong>YEARLY</strong></p><ul style=\"margin-left: 0.0px;\"><li>Carpets and upholstery (<strong>close to the entrance</strong>, depending on traffic, shall be cleaned up to<span> </span><strong>six times per year).</strong></li><li>Chandeliers and special lighting fixtures.</li><li>Marble and stone flooring and surfaces shall be polished yearly, monitoring wear and tear. </li></ul><p>Download the<span> </span><strong><a class=\"external-link\" href=\"https://fendi.sharepoint.com/:x:/r/sites/CICERO/Shared%20Documents/cleaning%20shedule.xlsm?d=wdf8df3c013f54394b001e7ae000d29c5&amp;csf=1&amp;web=1&amp;e=tsaKvq\" rel=\"nofollow\" style=\"text-decoration: underline;\">Cleaning Schedule</a></strong><span> </span>below and personalize it according to the store features.</p><p>Where the <strong><a class=\"external-link\" href=\"https://servicechannel.atlassian.net/wiki/spaces/SCU/overview?homepageId=384335930#%21spacehome\" rel=\"nofollow\" style=\"text-decoration: underline;\">service channel</a></strong><span> </span>is in use, look at the calendar available in the Web version of the portal to check for coming scheduled interventions and to give feedback on additional services required.</p><p><span class=\"confluence-embedded-file-wrapper\"><img class=\"confluence-embedded-image\" draggable=\"false\" src=\"\" alt=\"cleaning schedule\"></span></p><p>Ensure effective control over the quality of the cleanings and proper partner behaviours</p><p><span>- Perform a weekly <strong>Mister Clean</strong> check: </span></p><ul style=\"margin-left: 0.0px;\"><li><span>Check for dust on top of shelves and hangers.</span></li><li><span>Open drawers and check for dust inside and behind.</span></li><li><span>Carefully inspect the bathroom, including the area behind the toilet bowl.</span></li></ul><p><br/></p><p>❗ Cleaning is a daily team effort, not the sole responsibility of the cleaning staff.</p><p><span class=\"fontSizeXLarge\"><strong>COVID Special Measures Guidelines ⚠️ </strong></span></p><p>❗ Please refer to the guidelines below for<span> </span><strong>General cleaning, Deep cleaning, and sanitation</strong><span> </span>during the Covid-19 crisis.</p>",
+            "suggestions": [
+              {
+                "title": "Back Office",
+                "link": "Boutique/Management/Back Office"
+              },
+              {
+                "title": "F.A.Q",
+                "link": "Client/AFTER SALES/F.A.Q."
+              }
+            ]
+          },
+          {
+            "title": "Back Office",
+            "type": "page"
+          }
+        ]
+      },
+      {
+        "title": "Cash Management",
+        "type": "group",
+        "children": [
+          {
+            "title": "Till Float Management",
+            "type": "page"
+          },
+          {
+            "title": "Cash Management at Closing",
+            "type": "page"
+          },
+          {
+            "title": "Bank Deposit",
+            "type": "page"
+          },
+          {
+            "title": "Petty Cash",
+            "type": "page"
+          },
+          {
+            "title": "Daily Sales & Cash Reconciliation",
+            "type": "page"
+          }
+        ]
+      },
+      {
+        "title": "Shop Floor",
+        "type": "group",
+        "children": [
+          {
+            "title": "Product Preparation",
+            "type": "page"
+          },
+          {
+            "title": "Display & VM Guidelines",
+            "type": "page"
+          },
+          {
+            "title": "Proximity Storage",
+            "type": "page"
+          },
+          {
+            "title": "Product Care",
+            "type": "page"
+          },
+          {
+            "title": "Store Appearance Guidelines",
+            "type": "page"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "STOCK & SUPPLY",
+    "type": "group",
+    "children": [
+      {
+        "title": "Stock Receiving Management",
+        "type": "group",
+        "children": [
+          {
+            "title": "Stock Receiving in Boutique",
+            "type": "page"
+          },
+          {
+            "title": "Stock Integration in the system",
+            "type": "page"
+          },
+          {
+            "title": "Efficient Product Receiving",
+            "type": "page"
+          },
+          {
+            "title": "Defective Items Reception",
+            "type": "page"
+          }
+        ]
+      },
+      {
+        "title": "Stock Management",
+        "type": "group",
+        "children": [
+          {
+            "title": "Stock Adjustment",
+            "type": "page"
+          },
+          {
+            "title": "Stock Take",
+            "type": "page"
+          },
+          {
+            "title": "Cycle Count",
+            "type": "page"
+          }
+        ]
+      },
+      {
+        "title": "Transferring & Shipping",
+        "type": "group",
+        "children": [
+          {
+            "title": "Proper Shipment",
+            "type": "page"
+          },
+          {
+            "title": "Oministock Europe Store",
+            "type": "page"
+          }
+        ]
+      },
+      {
+        "title": "Store Damage & Defectives",
+        "type": "group",
+        "children": []
+      },
+      {
+        "title": "Non-Sellable Items",
+        "type": "group",
+        "children": [
+          {
+            "title": "How to Order New Packaging",
+            "type": "page"
+          },
+          {
+            "title": "How to Order New Retail Material",
+            "type": "page"
+          }
+        ]
+      },
+      {
+        "title": "Special Stock Management",
+        "type": "group",
+        "children": [
+          {
+            "title": "FENDI First",
+            "type": "page"
+          }
+        ]
+      }
+    ]
+  }
+]
