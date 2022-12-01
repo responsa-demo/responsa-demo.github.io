@@ -156,7 +156,7 @@
             "type": "page"
           },
           {
-            "title": "F.A.Q.",
+            "title": "FAQ",
             "type": "page"
           },
           {
@@ -251,8 +251,8 @@
                 "link": "Boutique/Management/Back Office"
               },
               {
-                "title": "F.A.Q",
-                "link": "Client/AFTER SALES/F.A.Q."
+                "title": "FAQ",
+                "link": "Client/AFTER SALES/FAQ"
               }
             ]
           },
